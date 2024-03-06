@@ -1,0 +1,33 @@
+
+h1{color: #000000;
+text-shadow: 2px 2px #cf6d12;}
+
+.primeiro{
+    color: #cf6d12;
+    font-size: 16px;
+    font-style: italic;
+    } 
+
+.segundo{
+    color: #00008b;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.aprendizado{ 
+    color: #ffffff;
+    background: #cf6d12;
+    font-size: 20px;
+    font-weight: 500;}
+
+    .ul{color: #606060;}
+
+.fazer{ 
+    color: #ffffff;
+    background: #00008b;
+    font-size: 20px;
+    font-weight: 500;}
+
+    .ol{color: #606060;}
+
+
